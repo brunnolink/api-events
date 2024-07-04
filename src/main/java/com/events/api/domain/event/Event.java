@@ -1,5 +1,6 @@
 package com.events.api.domain.event;
 
+import com.events.api.dto.EventRequestDTO;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.Id;
@@ -28,5 +29,6 @@ public class Event {
     private String eventUrl;
     private Boolean remote;
     private Date date;
+
 
 }

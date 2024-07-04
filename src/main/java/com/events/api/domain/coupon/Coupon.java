@@ -1,4 +1,4 @@
-package com.events.api.domain.coupom;
+package com.events.api.domain.coupon;
 
 import com.events.api.domain.event.Event;
 import jakarta.persistence.*;
