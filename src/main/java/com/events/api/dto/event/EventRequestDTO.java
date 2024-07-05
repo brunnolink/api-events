@@ -1,4 +1,4 @@
-package com.events.api.dto;
+package com.events.api.dto.event;
 
 import org.springframework.web.multipart.MultipartFile;
 
